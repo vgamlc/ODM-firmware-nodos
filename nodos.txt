@@ -1,3 +1,4 @@
 # Indice de los binarios de los nodos de ODM para la actualizacion a distancia.
 # Una linea por placa: <carpeta> <version> <sha256 del .bin en hex>
 # Lo escribe scripts/publicar_ota.py del proyecto Luz_Garaje_Shelly_ESPNOW: no editar a mano.
+atomhub 2.0.2 7f6f9ae79aa1754b478c0a7b9b7d2f5fd276e1d042a268c01d227d8de1c7d7e0
