@@ -1,0 +1,3 @@
+# Indice de los binarios de los nodos de ODM para la actualizacion a distancia.
+# Una linea por placa: <carpeta> <version> <sha256 del .bin en hex>
+# Lo escribe scripts/publicar_ota.py del proyecto Luz_Garaje_Shelly_ESPNOW: no editar a mano.
