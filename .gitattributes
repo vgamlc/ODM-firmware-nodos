@@ -1,0 +1,5 @@
+# Los binarios no se tocan nunca (un .bin con saltos de linea convertidos no arranca)
+*.bin binary
+# El indice, siempre con LF (lo lee el Atom)
+*.txt text eol=lf
+*.md  text eol=lf
