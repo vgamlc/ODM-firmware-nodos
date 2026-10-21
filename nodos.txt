@@ -2,4 +2,4 @@
 # Una linea por placa: <carpeta> <version> <sha256 del .bin en hex>
 # Lo escribe scripts/publicar_ota.py del proyecto Luz_Garaje_Shelly_ESPNOW: no editar a mano.
 atomhub 2.0.5 60cbb7246441dde42687f853fd998b0d3fcd66b5fb0918e58e06fc968e8b174a
-shelly1gen3 2.0.6 1bfff3f5c56371483c65719d477b77237e8b62d9526a00f9b95ae0243c8c27eb
+shelly1gen3 2.0.7 1c26d4e92daffe3a75f69624791a774255e6330e87a79ea15242a3955e1825d9
