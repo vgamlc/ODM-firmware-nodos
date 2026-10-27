@@ -1,6 +1,6 @@
 # Indice de los binarios de los nodos de ODM para la actualizacion a distancia.
 # Una linea por placa: <carpeta> <version> <sha256 del .bin en hex>
 # Lo escribe scripts/publicar_ota.py del proyecto Nodo_ODM_ESPNOW: no editar a mano.
-atomhub 2.1.1 b2da9419ed2883006daecc2a4727b5b5d5e2797e694517f09482e7d0c2d99e44
+atomhub 2.1.2 25ab3bd1d3ccfeb9a44e28b854ed2c063374bd075986d9b996e49cec2584d011
 shelly1gen3 2.1.2 d76d199ebdfc94271ec75a1d95b0712bb230a644451686eecdbd0b0648399f52
 shelly1mini 2.1.2 98059dde1e8efef7642e7f3f2647689f815379c2e3edebce8190bbc4a0ec3c31
