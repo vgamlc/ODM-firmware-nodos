@@ -3,4 +3,4 @@
 # Lo escribe scripts/publicar_ota.py del proyecto Nodo_ODM_ESPNOW: no editar a mano.
 atomhub 2.1.1 b2da9419ed2883006daecc2a4727b5b5d5e2797e694517f09482e7d0c2d99e44
 shelly1gen3 2.1.2 d76d199ebdfc94271ec75a1d95b0712bb230a644451686eecdbd0b0648399f52
-shelly1mini 2.1.0 3600eea60a3c4a8b3dcd767bd0c73e65e3e83e317925ec2f576cc95da9913813
+shelly1mini 2.1.2 98059dde1e8efef7642e7f3f2647689f815379c2e3edebce8190bbc4a0ec3c31
